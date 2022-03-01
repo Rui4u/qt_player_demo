@@ -17,8 +17,8 @@ MainWindow::~MainWindow()
 
 void MainWindow::on_audioButton_clicked()
 {
-//    this->audioThead = new AudioThead(this);
-//    audioThead->start();
+    this->audioThead = new AudioThead(this);
+    audioThead->start();
 }
 
 

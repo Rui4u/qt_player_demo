@@ -27,7 +27,7 @@
      <string>录制</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="playerButton">
     <property name="geometry">
      <rect>
       <x>100</x>
